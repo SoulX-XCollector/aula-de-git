@@ -1,0 +1,1 @@
+Este arquivo salvo no Github foi usado para aprender a usar o Git e Github com VSCode.
